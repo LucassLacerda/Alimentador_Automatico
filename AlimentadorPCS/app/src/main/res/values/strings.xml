@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alimentador Automático</string>
+    <string name="digitar">Digite o horário no formato hhmm</string>
+    <string name="digitar2">Digite o segundo horário no formato hhmm</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="refresh">Atualizar</string>
+
+
+</resources>

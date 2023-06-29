@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336409319041",
+    "firebase_url": "https://alimentadorpcs-default-rtdb.firebaseio.com",
+    "project_id": "alimentadorpcs",
+    "storage_bucket": "alimentadorpcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336409319041:android:a9142b02f35d3b037e1f80",
+        "android_client_info": {
+          "package_name": "com.example.alimentadorpcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336409319041-3us8eharcmnv275vg8ertvi3tb564veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58IhcZv_H5rFq8jw2aZbdbULXMRq-oyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336409319041-3us8eharcmnv275vg8ertvi3tb564veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
