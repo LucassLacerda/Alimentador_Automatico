@@ -64,8 +64,8 @@ void setup() {
 
   /*authentication*/
 
-  auth.user.email = "lucas.f.lacerda@usp.br";
-  auth.user.password = "123456";
+  auth.user.email = "usuario@gmail.com";
+  auth.user.password = "senha123";
   /* Sign up */
 
 
